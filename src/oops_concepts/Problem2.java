@@ -6,4 +6,5 @@ package oops_concepts;
  */
 public class Problem2 {
 
+	
 }
