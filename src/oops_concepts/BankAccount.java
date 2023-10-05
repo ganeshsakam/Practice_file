@@ -4,7 +4,15 @@ package oops_concepts;
  *  Create a subclass called SavingsAccount that overrides the withdraw() method to prevent 
  *  withdrawals if the account balance falls below one hundred.
  */
-public class Problem2 {
+public class BankAccount {
 
+	public void deposit() {
+		System.out.println("please deposite money");
+		
+	}
+	public void withdraw() {
+		System.out.println("please withdraw money");
+	}
 	
+	 	
 }
